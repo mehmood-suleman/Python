@@ -1,3 +1,4 @@
 Hello
 My name is Mehmood
 My roll no 41824
+My course is AI Batch 3
